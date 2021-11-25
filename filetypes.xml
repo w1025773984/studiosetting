@@ -3,13 +3,14 @@
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="db" type="Native" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="bp" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="db-journal" type="SQL" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="db" approved="true" type="Native" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="sql" approved="true" type="SQLite" />
     </extensionMap>
   </component>
 </application>
