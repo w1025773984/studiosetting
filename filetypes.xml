@@ -10,6 +10,7 @@
       <mapping ext="bp" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="db-journal" type="SQL" />
+      <mapping ext="db" type="SQL" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="db" approved="true" type="Native" />
       <removed_mapping ext="psd" approved="true" type="Image" />
