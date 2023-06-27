@@ -5,13 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="654561286D21022000" />
+          </Key>
+        </key>
+        <name value="Lebest L202207" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="0123456789ABCDEF" />
           </Key>
         </key>
-        <lastOnlineTime value="2021-09-16T11:47:03.403414Z" />
         <name value="Droi agn0230SYO_L13A" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
