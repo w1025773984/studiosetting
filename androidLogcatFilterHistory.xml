@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="DataTimingUploadHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="DataTimingUploadHelper" />
         <option value="package:mine " />
       </list>
     </option>
