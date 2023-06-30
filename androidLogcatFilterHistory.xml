@@ -1,15 +1,16 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PhoneServiceController" />
+    <option name="mostRecentlyUsed" value="freeme.hc.network" />
     <option name="nonFavorites">
       <list>
-        <option value="PhoneServiceController" />
         <option value="freeme.hc.network" />
-        <option value="PhoneBaseViewModel" />
-        <option value="freeme.hc." />
         <option value="freeme.hc.command" />
-        <option value="package:mine DataTimingUploadHelper" />
+        <option value="PhoneServiceController" />
+        <option value="PhoneBaseViewModel" />
+        <option value="freeme.hc" />
+        <option value="freeme.hc." />
         <option value="DataTimingUploadHelper" />
+        <option value="package:mine DataTimingUploadHelper" />
         <option value="uploadAppsInfo" />
         <option value="Added appName:" />
         <option value="Added" />
