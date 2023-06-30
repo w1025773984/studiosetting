@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="HealthControlAppli" />
+    <option name="mostRecentlyUsed" value="loadAppIcon" />
     <option name="nonFavorites">
       <list>
+        <option value="loadAppIcon" />
         <option value="HealthControlAppli" />
         <option value="freeme.hc.network" />
         <option value="HealthControlApplication" />
