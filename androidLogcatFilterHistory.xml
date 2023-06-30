@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="HealthControlApplication" />
+    <option name="mostRecentlyUsed" value="freeme.hc.network" />
     <option name="nonFavorites">
       <list>
+        <option value="freeme.hc.network" />
         <option value="HealthControlApplication" />
         <option value="isReplace" />
-        <option value="freeme.hc.network" />
         <option value="freeme.hc.command" />
         <option value="PhoneServiceController" />
         <option value="PhoneBaseViewModel" />
