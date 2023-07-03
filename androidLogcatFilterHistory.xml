@@ -1,26 +1,28 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="AlarmPingSender" />
     <option name="nonFavorites">
       <list>
+        <option value="AlarmPingSender" />
+        <option value="mqtt" />
+        <option value="PhoneServiceController" />
+        <option value="package:mine " />
+        <option value="package:mine onPkgAdded" />
+        <option value="trace" />
+        <option value="Alarm" />
+        <option value="ping" />
         <option value="loadAppIcon" />
         <option value="HealthControlAppli" />
         <option value="freeme.hc.network" />
         <option value="HealthControlApplication" />
         <option value="isReplace" />
         <option value="freeme.hc.command" />
-        <option value="PhoneServiceController" />
         <option value="PhoneBaseViewModel" />
         <option value="freeme.hc" />
         <option value="freeme.hc." />
         <option value="DataTimingUploadHelper" />
         <option value="package:mine DataTimingUploadHelper" />
         <option value="uploadAppsInfo" />
-        <option value="Added appName:" />
-        <option value="Added" />
-        <option value="package:mine onPkgAdded" />
-        <option value="package:mine HealthControlApplication" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
