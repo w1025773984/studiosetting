@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AlarmPingSender" />
+    <option name="mostRecentlyUsed" value="freeme.hc.control.strategy" />
     <option name="nonFavorites">
       <list>
+        <option value="freeme.hc.control.strategy" />
         <option value="AlarmPingSender" />
         <option value="mqtt" />
         <option value="PhoneServiceController" />
@@ -22,7 +23,6 @@
         <option value="freeme.hc." />
         <option value="DataTimingUploadHelper" />
         <option value="package:mine DataTimingUploadHelper" />
-        <option value="uploadAppsInfo" />
       </list>
     </option>
   </component>
