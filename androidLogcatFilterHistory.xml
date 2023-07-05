@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="freeme.hc.control.strategy" />
+        <option value="removePlayingService" />
         <option value="AlarmPingSender" />
         <option value="mqtt" />
         <option value="PhoneServiceController" />
@@ -22,7 +23,6 @@
         <option value="freeme.hc" />
         <option value="freeme.hc." />
         <option value="DataTimingUploadHelper" />
-        <option value="package:mine DataTimingUploadHelper" />
       </list>
     </option>
   </component>
