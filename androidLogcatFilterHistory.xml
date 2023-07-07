@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="freeme.hc.control.strategy" />
+    <option name="mostRecentlyUsed" value="simon" />
     <option name="nonFavorites">
       <list>
+        <option value="simon" />
         <option value="freeme.hc.control.strategy" />
         <option value="removePlayingService" />
         <option value="AlarmPingSender" />
@@ -22,7 +23,6 @@
         <option value="PhoneBaseViewModel" />
         <option value="freeme.hc" />
         <option value="freeme.hc." />
-        <option value="DataTimingUploadHelper" />
       </list>
     </option>
   </component>
