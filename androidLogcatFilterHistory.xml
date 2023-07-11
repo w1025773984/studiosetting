@@ -1,10 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="sendScreenRemainingTime" />
+    <option name="mostRecentlyUsed" value="mAudioPlaybackCallback" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine matrix" />
+        <option value="mAudioPlaybackCallback" />
+        <option value="BackgroundServiceManager" />
+        <option value="AppUsageControlStrategy" />
         <option value="sendScreenRemainingTime" />
+        <option value="package:mine matrix" />
         <option value="package:system_server" />
         <option value="freeme.hc.service" />
         <option value="NotificationsManager::sendScreenRemainingTime" />
@@ -20,9 +23,6 @@
         <option value="Alarm" />
         <option value="ping" />
         <option value="loadAppIcon" />
-        <option value="HealthControlAppli" />
-        <option value="freeme.hc.network" />
-        <option value="HealthControlApplication" />
       </list>
     </option>
   </component>
