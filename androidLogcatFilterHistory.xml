@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="sendScreenRemainingTime" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine matrix" />
         <option value="sendScreenRemainingTime" />
         <option value="package:system_server" />
         <option value="freeme.hc.service" />
@@ -22,7 +23,6 @@
         <option value="HealthControlAppli" />
         <option value="freeme.hc.network" />
         <option value="HealthControlApplication" />
-        <option value="isReplace" />
       </list>
     </option>
   </component>
