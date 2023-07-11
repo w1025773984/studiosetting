@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="mAudioPlaybackCallback" />
+    <option name="mostRecentlyUsed" value="BackgroundServiceManager" />
     <option name="nonFavorites">
       <list>
-        <option value="mAudioPlaybackCallback" />
         <option value="BackgroundServiceManager" />
+        <option value="mAudioPlaybackCallback" />
         <option value="AppUsageControlStrategy" />
         <option value="sendScreenRemainingTime" />
         <option value="package:mine matrix" />
