@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="NotificationsManager::sendScreenRemainingTime" />
+    <option name="mostRecentlyUsed" value="sendScreenRemainingTime" />
     <option name="nonFavorites">
       <list>
+        <option value="sendScreenRemainingTime" />
+        <option value="package:system_server" />
+        <option value="freeme.hc.service" />
         <option value="NotificationsManager::sendScreenRemainingTime" />
         <option value="simon" />
         <option value="PhoneServiceController" />
@@ -20,9 +23,6 @@
         <option value="freeme.hc.network" />
         <option value="HealthControlApplication" />
         <option value="isReplace" />
-        <option value="freeme.hc.command" />
-        <option value="PhoneBaseViewModel" />
-        <option value="freeme.hc" />
       </list>
     </option>
   </component>
