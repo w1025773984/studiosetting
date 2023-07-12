@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="DecodeResponseBodyConverter" />
     <option name="nonFavorites">
       <list>
+        <option value="DecodeResponseBodyConverter" />
+        <option value="PhoneInterceptor" />
+        <option value="BindActivity" />
         <option value="PhoneServiceController" />
         <option value="TimeTickBroadCast" />
         <option value="RemoteControlHelper" />
@@ -20,9 +23,6 @@
         <option value="removePlayingService" />
         <option value="AlarmPingSender" />
         <option value="package:mine " />
-        <option value="package:mine onPkgAdded" />
-        <option value="trace" />
-        <option value="Alarm" />
       </list>
     </option>
   </component>
