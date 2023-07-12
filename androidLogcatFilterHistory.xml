@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BackgroundServiceManager" />
+    <option name="mostRecentlyUsed" value="RemoteControlHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="RemoteControlHelper" />
+        <option value="mqtt" />
         <option value="BackgroundServiceManager" />
         <option value="mAudioPlaybackCallback" />
         <option value="AppUsageControlStrategy" />
@@ -16,13 +18,11 @@
         <option value="freeme.hc.control.strategy" />
         <option value="removePlayingService" />
         <option value="AlarmPingSender" />
-        <option value="mqtt" />
         <option value="package:mine " />
         <option value="package:mine onPkgAdded" />
         <option value="trace" />
         <option value="Alarm" />
         <option value="ping" />
-        <option value="loadAppIcon" />
       </list>
     </option>
   </component>
