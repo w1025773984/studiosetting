@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="TimeTickBroadCast" />
+    <option name="mostRecentlyUsed" value="PhoneServiceController" />
     <option name="nonFavorites">
       <list>
+        <option value="PhoneServiceController" />
         <option value="TimeTickBroadCast" />
         <option value="RemoteControlHelper" />
         <option value="mqtt" />
@@ -15,7 +16,6 @@
         <option value="freeme.hc.service" />
         <option value="NotificationsManager::sendScreenRemainingTime" />
         <option value="simon" />
-        <option value="PhoneServiceController" />
         <option value="freeme.hc.control.strategy" />
         <option value="removePlayingService" />
         <option value="AlarmPingSender" />
