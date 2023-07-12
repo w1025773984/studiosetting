@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="RemoteControlHelper" />
+    <option name="mostRecentlyUsed" value="TimeTickBroadCast" />
     <option name="nonFavorites">
       <list>
+        <option value="TimeTickBroadCast" />
         <option value="RemoteControlHelper" />
         <option value="mqtt" />
         <option value="BackgroundServiceManager" />
@@ -22,7 +23,6 @@
         <option value="package:mine onPkgAdded" />
         <option value="trace" />
         <option value="Alarm" />
-        <option value="ping" />
       </list>
     </option>
   </component>
