@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BindActivity" />
+    <option name="mostRecentlyUsed" value="http" />
     <option name="nonFavorites">
       <list>
+        <option value="http" />
+        <option value="gstatic" />
         <option value="BindActivity" />
         <option value="PhoneServiceController" />
         <option value="DecodeResponseBodyConverter" />
@@ -21,8 +23,6 @@
         <option value="simon" />
         <option value="freeme.hc.control.strategy" />
         <option value="removePlayingService" />
-        <option value="AlarmPingSender" />
-        <option value="package:mine " />
       </list>
     </option>
   </component>
