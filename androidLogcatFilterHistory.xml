@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PhoneServiceController" />
+    <option name="mostRecentlyUsed" value="BindActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="BindActivity" />
         <option value="PhoneServiceController" />
         <option value="DecodeResponseBodyConverter" />
         <option value="PhoneInterceptor" />
-        <option value="BindActivity" />
         <option value="TimeTickBroadCast" />
         <option value="RemoteControlHelper" />
         <option value="mqtt" />
