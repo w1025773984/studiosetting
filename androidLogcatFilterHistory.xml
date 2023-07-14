@@ -1,11 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="http" />
+    <option name="mostRecentlyUsed" value="simon" />
     <option name="nonFavorites">
       <list>
+        <option value="simon" />
+        <option value="BindActivity" />
+        <option value="NetworkReceiver" />
         <option value="http" />
         <option value="gstatic" />
-        <option value="BindActivity" />
         <option value="PhoneServiceController" />
         <option value="DecodeResponseBodyConverter" />
         <option value="PhoneInterceptor" />
@@ -20,9 +22,7 @@
         <option value="package:system_server" />
         <option value="freeme.hc.service" />
         <option value="NotificationsManager::sendScreenRemainingTime" />
-        <option value="simon" />
         <option value="freeme.hc.control.strategy" />
-        <option value="removePlayingService" />
       </list>
     </option>
   </component>
