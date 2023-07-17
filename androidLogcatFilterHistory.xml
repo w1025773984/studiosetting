@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="PoseDetectManager" />
+        <option value="package:mine matrix" />
         <option value="simon" />
         <option value="BindActivity" />
         <option value="NetworkReceiver" />
@@ -19,7 +20,6 @@
         <option value="mAudioPlaybackCallback" />
         <option value="AppUsageControlStrategy" />
         <option value="sendScreenRemainingTime" />
-        <option value="package:mine matrix" />
         <option value="package:system_server" />
         <option value="freeme.hc.service" />
         <option value="NotificationsManager::sendScreenRemainingTime" />
