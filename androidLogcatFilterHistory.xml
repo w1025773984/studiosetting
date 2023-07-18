@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="simon" />
+    <option name="mostRecentlyUsed" value="PoseDE" />
     <option name="nonFavorites">
       <list>
+        <option value="PoseDE" />
         <option value="package:mine matrix" />
         <option value="simon" />
         <option value="PoseDetectManager" />
@@ -22,7 +23,6 @@
         <option value="sendScreenRemainingTime" />
         <option value="package:system_server" />
         <option value="freeme.hc.service" />
-        <option value="NotificationsManager::sendScreenRemainingTime" />
       </list>
     </option>
   </component>
