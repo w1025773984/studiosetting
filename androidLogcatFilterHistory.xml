@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PoseDetectManager" />
+    <option name="mostRecentlyUsed" value="simon" />
     <option name="nonFavorites">
       <list>
+        <option value="simon" />
         <option value="PoseDetectManager" />
         <option value="package:mine matrix" />
-        <option value="simon" />
         <option value="BindActivity" />
         <option value="NetworkReceiver" />
         <option value="http" />
