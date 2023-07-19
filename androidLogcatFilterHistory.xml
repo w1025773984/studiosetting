@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getProtectionTime" />
+    <option name="mostRecentlyUsed" value="getHearingVolumeInfo" />
     <option name="nonFavorites">
       <list>
+        <option value="getHearingVolumeInfo" />
+        <option value="DataTimingUploadHelper" />
         <option value="getProtectionTime" />
         <option value="package:mine matrix" />
         <option value="PoseDE" />
@@ -21,8 +23,6 @@
         <option value="BackgroundServiceManager" />
         <option value="mAudioPlaybackCallback" />
         <option value="AppUsageControlStrategy" />
-        <option value="sendScreenRemainingTime" />
-        <option value="package:system_server" />
       </list>
     </option>
   </component>
