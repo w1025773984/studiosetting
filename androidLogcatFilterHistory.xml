@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PoseDE" />
+    <option name="mostRecentlyUsed" value="getProtectionTime" />
     <option name="nonFavorites">
       <list>
+        <option value="getProtectionTime" />
         <option value="package:mine matrix" />
         <option value="PoseDE" />
         <option value="simon" />
@@ -22,7 +23,6 @@
         <option value="AppUsageControlStrategy" />
         <option value="sendScreenRemainingTime" />
         <option value="package:system_server" />
-        <option value="freeme.hc.service" />
       </list>
     </option>
   </component>
