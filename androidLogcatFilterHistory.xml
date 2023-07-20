@@ -1,15 +1,17 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="HearingProtectionProviderHealper" />
+    <option name="mostRecentlyUsed" value="simon" />
     <option name="nonFavorites">
       <list>
+        <option value="simon" />
+        <option value="getProtectionTime" />
+        <option value="getPro" />
         <option value="HearingProtectionProviderHealper" />
+        <option value="getProtectionTimeToday" />
         <option value="getHearingVolumeInfo" />
         <option value="DataTimingUploadHelper" />
-        <option value="getProtectionTime" />
         <option value="package:mine matrix" />
         <option value="PoseDE" />
-        <option value="simon" />
         <option value="PoseDetectManager" />
         <option value="BindActivity" />
         <option value="NetworkReceiver" />
@@ -21,8 +23,6 @@
         <option value="TimeTickBroadCast" />
         <option value="RemoteControlHelper" />
         <option value="mqtt" />
-        <option value="BackgroundServiceManager" />
-        <option value="mAudioPlaybackCallback" />
       </list>
     </option>
   </component>
