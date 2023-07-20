@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getHearingVolumeInfo" />
+    <option name="mostRecentlyUsed" value="HearingProtectionProviderHealper" />
     <option name="nonFavorites">
       <list>
+        <option value="HearingProtectionProviderHealper" />
         <option value="getHearingVolumeInfo" />
         <option value="DataTimingUploadHelper" />
         <option value="getProtectionTime" />
@@ -22,7 +23,6 @@
         <option value="mqtt" />
         <option value="BackgroundServiceManager" />
         <option value="mAudioPlaybackCallback" />
-        <option value="AppUsageControlStrategy" />
       </list>
     </option>
   </component>
