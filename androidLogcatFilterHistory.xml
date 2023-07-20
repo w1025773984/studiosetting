@@ -4,8 +4,9 @@
     <option name="nonFavorites">
       <list>
         <option value="freeme.hc.net" />
-        <option value="getProtectionTime" />
         <option value="simon" />
+        <option value="abcdefg" />
+        <option value="getProtectionTime" />
         <option value="getPro" />
         <option value="HearingProtectionProviderHealper" />
         <option value="getProtectionTimeToday" />
@@ -22,7 +23,6 @@
         <option value="DecodeResponseBodyConverter" />
         <option value="PhoneInterceptor" />
         <option value="TimeTickBroadCast" />
-        <option value="RemoteControlHelper" />
       </list>
     </option>
   </component>
