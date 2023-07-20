@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="simon" />
+    <option name="mostRecentlyUsed" value="freeme.hc.net" />
     <option name="nonFavorites">
       <list>
-        <option value="simon" />
+        <option value="freeme.hc.net" />
         <option value="getProtectionTime" />
+        <option value="simon" />
         <option value="getPro" />
         <option value="HearingProtectionProviderHealper" />
         <option value="getProtectionTimeToday" />
@@ -22,7 +23,6 @@
         <option value="PhoneInterceptor" />
         <option value="TimeTickBroadCast" />
         <option value="RemoteControlHelper" />
-        <option value="mqtt" />
       </list>
     </option>
   </component>
