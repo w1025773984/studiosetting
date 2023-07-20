@@ -3,8 +3,9 @@
     <option name="mostRecentlyUsed" value="freeme.hc.net" />
     <option name="nonFavorites">
       <list>
-        <option value="freeme.hc.net" />
         <option value="simon" />
+        <option value="servicecontroller" />
+        <option value="freeme.hc.net" />
         <option value="abcdefg" />
         <option value="getProtectionTime" />
         <option value="getPro" />
@@ -22,7 +23,6 @@
         <option value="PhoneServiceController" />
         <option value="DecodeResponseBodyConverter" />
         <option value="PhoneInterceptor" />
-        <option value="TimeTickBroadCast" />
       </list>
     </option>
   </component>
