@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="getProtectionTime" />
+        <option value="PoseDetectManager" />
         <option value="simon" />
         <option value="getPro" />
         <option value="servicecontroller" />
@@ -15,7 +16,6 @@
         <option value="DataTimingUploadHelper" />
         <option value="package:mine matrix" />
         <option value="PoseDE" />
-        <option value="PoseDetectManager" />
         <option value="BindActivity" />
         <option value="NetworkReceiver" />
         <option value="http" />
