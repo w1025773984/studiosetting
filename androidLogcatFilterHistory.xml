@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getPro" />
+    <option name="mostRecentlyUsed" value="simon" />
     <option name="nonFavorites">
       <list>
-        <option value="getPro" />
         <option value="simon" />
+        <option value="getPro" />
         <option value="servicecontroller" />
         <option value="freeme.hc.net" />
         <option value="abcdefg" />
