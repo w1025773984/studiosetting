@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getProtectionTime" />
+    <option name="mostRecentlyUsed" value="PoseDetectManager" />
     <option name="nonFavorites">
       <list>
-        <option value="getProtectionTime" />
         <option value="PoseDetectManager" />
+        <option value="getProtectionTime" />
         <option value="simon" />
         <option value="getPro" />
         <option value="servicecontroller" />
