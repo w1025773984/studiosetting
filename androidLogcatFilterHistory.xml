@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="PoseDetectManager" />
+    <option name="mostRecentlyUsed" value="freeme.hc.command" />
     <option name="nonFavorites">
       <list>
+        <option value="freeme.hc.command" />
         <option value="PoseDetectManager" />
         <option value="getProtectionTime" />
         <option value="simon" />
@@ -22,7 +23,6 @@
         <option value="gstatic" />
         <option value="PhoneServiceController" />
         <option value="DecodeResponseBodyConverter" />
-        <option value="PhoneInterceptor" />
       </list>
     </option>
   </component>
