@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="simon" />
+    <option name="mostRecentlyUsed" value="freeme.hc.command" />
     <option name="nonFavorites">
       <list>
-        <option value="simon" />
-        <option value="freeme.hc.command" />
-        <option value="PoseDetectManager" />
         <option value="getProtectionTime" />
+        <option value="freeme.hc.command" />
+        <option value="simon" />
+        <option value="PoseDetectManager" />
         <option value="getPro" />
         <option value="servicecontroller" />
         <option value="freeme.hc.net" />
