@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="Install" />
     <option name="nonFavorites">
       <list>
+        <option value="Install" />
+        <option value="InstallRe" />
         <option value="InstallAppReceiver" />
         <option value="freeme.hc.command" />
         <option value="getProtectionTime" />
@@ -21,8 +23,6 @@
         <option value="BindActivity" />
         <option value="NetworkReceiver" />
         <option value="http" />
-        <option value="gstatic" />
-        <option value="PhoneServiceController" />
       </list>
     </option>
   </component>
