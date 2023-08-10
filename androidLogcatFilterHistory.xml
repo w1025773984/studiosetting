@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Install" />
+    <option name="mostRecentlyUsed" value="error" />
     <option name="nonFavorites">
       <list>
+        <option value="error" />
         <option value="Install" />
         <option value="InstallRe" />
         <option value="InstallAppReceiver" />
@@ -22,7 +23,6 @@
         <option value="PoseDE" />
         <option value="BindActivity" />
         <option value="NetworkReceiver" />
-        <option value="http" />
       </list>
     </option>
   </component>
