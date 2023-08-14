@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="simon" />
     <option name="nonFavorites">
       <list>
-        <option value="simon" />
         <option value="error" />
+        <option value="simon" />
         <option value="Install" />
         <option value="InstallRe" />
         <option value="InstallAppReceiver" />
