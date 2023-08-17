@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="getFileInfoFromCursor" />
+    <option name="mostRecentlyUsed" value="hasActionMode" />
     <option name="nonFavorites">
       <list>
+        <option value="hasActionMode" />
         <option value="getFileInfoFromCursor" />
         <option value="simon" />
         <option value="error" />
@@ -22,7 +23,6 @@
         <option value="DataTimingUploadHelper" />
         <option value="package:mine matrix" />
         <option value="PoseDE" />
-        <option value="BindActivity" />
       </list>
     </option>
   </component>
